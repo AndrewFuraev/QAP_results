@@ -6,7 +6,7 @@ user_info = 'Фуагра Анри'
 # ниже его почта, пароль и телефон
 email1 = 'afuagra@inbox.ru'
 password1 = '12Gaimorit21'
-phone1 = '9853462923'
+phone1 = '1234567890'
 
 
 
